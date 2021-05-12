@@ -1,3 +1,5 @@
+Open in Google Colab to run.
+
 Initial experiment - Table 1
 ```
 experiment1(model, dataset, images_per_class,  iterations, network_steps):
